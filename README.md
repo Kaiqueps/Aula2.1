@@ -1,4 +1,5 @@
 # Aula2.1
 Will Smith
-Luana Piovani
+Wagner Moura
 Debora Seco 
+Paul Walker
